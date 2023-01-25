@@ -1,0 +1,4 @@
+#Wed Jan 25 11:44:18 GMT 2023
+base.0=/Users/S611421/StudioProjects/Accelerate/complete_advanced_flutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

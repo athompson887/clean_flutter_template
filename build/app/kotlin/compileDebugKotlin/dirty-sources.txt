@@ -1,0 +1,1 @@
+/Users/S611421/StudioProjects/Accelerate/complete_advanced_flutter/android/app/src/main/kotlin/com/minafarid/complete_advanced_flutter/MainActivity.kt
